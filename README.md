@@ -9,6 +9,11 @@ $ git clone https://github.com/ienokado/docker-wordpress-nginx.git
 $ cd docker-wordpress-nginx
 ```
 
+### create .env
+```
+cp .env.example .env
+```
+
 ### Docker compose build & up
 ```
 $ docker-compose up -d --build
