@@ -21,5 +21,6 @@ wp-content/plugins/hello.php
 .DS_Store
 
 .env
-docker/nginx/log
+docker/nginx/log/
+docker/mysql/
 
